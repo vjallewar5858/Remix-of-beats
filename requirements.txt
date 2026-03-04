@@ -1,0 +1,19 @@
+# Beat-Aligned Audio Mixer v2.0 — Dependencies
+
+# Web UI
+gradio>=4.0.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.1
+pydub>=0.25.1
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: needed for MP3 export (system-level, see README)
+# ffmpeg — install via: sudo apt install ffmpeg  OR  brew install ffmpeg
