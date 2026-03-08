@@ -1,12 +1,6 @@
 # Beat-Aligned Audio Mixer v2.0
 
 > Automatically align, tempo-match, and remix two audio tracks — with beat detection, crossfade, real-time BPM display, and multi-format export.
-
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
-[![Gradio](https://img.shields.io/badge/Gradio-4.0%2B-orange?logo=gradio)](https://gradio.app)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Space-yellow)](https://huggingface.co/spaces)
-
 ---
 
 ## Features
